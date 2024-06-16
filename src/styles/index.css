@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.jumbotron {
+    background-color: #f0f0f0; /* Color de fondo gris claro */
+    border-radius: 20px; /* Radio de curvatura de 20px */
+    height: 300px; /* Ajusta la altura deseada */
+}
+
+.jumbotron h1 {
+    padding-left: 20px; /* Añade espacio superior al título */
+  }
+  
+.jumbotron p {
+    padding-left: 20px; /* Añade espacio inferior a la descripción */
+}
+
+.jumbotron .btn {
+    margin-left: 20px; /* Añade 20px de margen a la derecha */
+  }
+
+
